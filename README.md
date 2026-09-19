@@ -1,17 +1,36 @@
-# React + Vite
+STÀR Turnkey Interior Solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Modern single-page interior design website built with React + Vite.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+English + Hindi content
 
-## React Compiler
+Interior design & turnkey services
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Project showcase
 
-## Expanding the Oxlint configuration
+Contact form
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-"# intriro-designer" 
+Direct Email
+
+Direct WhatsApp
+
+Responsive design
+
+No backend required
+
+Vercel ready
+
+Run Locally
+npm install
+npm run dev
+
+Build
+npm run build
+
+Deploy
+
+Push to GitHub and import the repository into Vercel.
+
+Built with React + Vite.
